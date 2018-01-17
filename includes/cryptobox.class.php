@@ -10,7 +10,7 @@
  * @package     GoUrl PHP Bitcoin/Altcoin Payments and Crypto Captcha
  * @copyright   2014-2018 Delta Consultants
  * @category    Libraries
- * @website     https://gourl.io
+ * @website     https://vlucash.org
  * @api         https://gourl.io/api-php.html
  * @example     https://gourl.io/bitcoin-payment-gateway-api.html
  * @gitHub  	https://github.com/cryptoapi/Payment-Gateway
