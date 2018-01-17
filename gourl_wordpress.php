@@ -4,8 +4,8 @@ Plugin Name: 		GoUrl Bitcoin Payment Gateway & Paid Downloads & Membership
 Plugin URI: 		https://gourl.io/bitcoin-wordpress-plugin.html
 Description: 		Official <a href="https://gourl.io">GoUrl.io</a> Bitcoin Payment Gateway for Wordpress. Provides bitcoin/altcoin payment gateways for - WooCommerce, Paid Memberships Pro, bbPress, Give Donations, Pay-Per-View, Pay-Per-Download, etc. Accept Bitcoin, BitcoinCash, Litecoin, Dash, Dogecoin, etc payments online. No Chargebacks, Global, Secure.  All in automatic mode.
 Version: 		1.4.2
-Author: 		GoUrl.io
-Author URI: 		https://gourl.io
+Author: 		    VluCash.com
+Author URI: 		https://vlucash.org
 WC requires at least: 	2.1.0
 WC tested up to: 	3.9.0
 License: 		GPLv2
