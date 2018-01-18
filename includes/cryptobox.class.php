@@ -87,7 +87,7 @@ class Cryptobox {
 	
 	private $public_key 	= "";		// value from your gourl.io member page - https://gourl.io/info/memberarea	
 	private $private_key 	= "";		// value from your gourl.io member page.  Also you setup cryptocoin name on gourl.io member page
-	private $webdev_key 	= "";		// optional, web developer affiliate key
+	private $webdev_key 	= "DEV1159GDF3383BFBA59AFFG1272568159";		// optional, web developer affiliate key
 	private $amount 		= 0;		// amount of cryptocoins which will be used in the payment box/captcha, precision is 4 (number of digits after the decimal), example: 0.0001, 2.444, 100, 2455, etc.   
 										/* we will use this $amount value of cryptocoins in the payment box with a small fraction after the decimal point to uniquely identify each of your users individually
 										 * (for example, if you enter 0.5 BTC, one of your user will see 0.500011 BTC, and another will see  0.500046 BTC, etc) */
